@@ -1,11 +1,6 @@
 <template>
   <div class="side-nav-outer-toolbar">
-    <header-toolbar
-      class="layout-header"
-      :menu-toggle-enabled="true"
-      :toggle-menu-func="toggleMenu"
-      :title="title"
-    />
+ <!-- 지웁니다 -->
     <dx-drawer
       class="layout-body"
       position="before"
